@@ -1,0 +1,44 @@
+{
+  "id": "74908ece-b48a-44f4-aa03-ea195b9d4c47",
+  "parentId": "92d8d44b-6335-4e51-b0cf-692a4d4a94bd",
+  "rootParentId": "92d8d44b-6335-4e51-b0cf-692a4d4a94bd",
+  "name": "pizzabot - yes",
+  "auto": true,
+  "contexts": [
+    "pizzabot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzabot.pizzabot-yes",
+      "affectedContexts": [
+        {
+          "name": "pizzabot-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "thankyou for pizza with cooke"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

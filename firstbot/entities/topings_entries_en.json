@@ -1,0 +1,26 @@
+[
+  {
+    "value": "pepperoni",
+    "synonyms": [
+      "pepperoni"
+    ]
+  },
+  {
+    "value": "mushrooms",
+    "synonyms": [
+      "mushrooms"
+    ]
+  },
+  {
+    "value": "extra cheese",
+    "synonyms": [
+      "extra cheese"
+    ]
+  },
+  {
+    "value": "olives",
+    "synonyms": [
+      "olives"
+    ]
+  }
+]

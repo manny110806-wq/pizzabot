@@ -1,0 +1,174 @@
+[
+  {
+    "id": "9b145a1c-aadc-4763-b577-270d8a2fe2a3",
+    "data": [
+      {
+        "text": "order me pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "628f755f-ecc7-49d6-9fcc-9b96e9dde434",
+    "data": [
+      {
+        "text": "order me pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97500626-2f55-471a-89cb-20298b51eb59",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "quantity",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " do you need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4f238cf-4d8c-46f3-8576-f95b41c64f87",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "topings",
+        "meta": "@topings",
+        "alias": "topings",
+        "userDefined": true
+      },
+      {
+        "text": " do you need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f5ebe26-92b3-442b-a94d-7a7bbedb8bbc",
+    "data": [
+      {
+        "text": "enter the ",
+        "userDefined": false
+      },
+      {
+        "text": "type",
+        "meta": "@pizza_type",
+        "alias": "pizza_type",
+        "userDefined": true
+      },
+      {
+        "text": " of pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32c0cdac-b338-4a77-a938-bb0c39e73074",
+    "data": [
+      {
+        "text": "order me a pizza to my ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a3c0912-ca8f-4ed2-bfd7-ee2a5f4a7908",
+    "data": [
+      {
+        "text": "could you order me ",
+        "userDefined": false
+      },
+      {
+        "text": "small size",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f46422a8-0fd7-43dc-a0f1-8e80b3c88f23",
+    "data": [
+      {
+        "text": "order me pizza to the ",
+        "userDefined": false
+      },
+      {
+        "text": "mail id",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": " and phone ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
